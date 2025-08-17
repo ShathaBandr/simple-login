@@ -45,7 +45,6 @@ h1 {
 label {
   color: rgba(255, 255, 255, 0.8);
   font-size: 14px;
-  letter-spacing: 2px;
   padding-right: 10px;
 }
 
@@ -115,3 +114,4 @@ footer {
   color: #555;
   margin-top: 2rem;
 }
+
